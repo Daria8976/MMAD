@@ -1,0 +1,5 @@
+moviepy
+coloredlogs==14.0
+easydict==1.9
+torchlibrosa==0.1.0
+replicate
