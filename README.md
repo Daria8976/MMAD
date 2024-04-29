@@ -17,13 +17,13 @@ MMAD exhibits remarkable AD generation capabilities in movies, by utilizing mult
 ## 🎥 Demo
 <table>
  <tr>
-  <td align="center" valign="center"><img src="./images/1.gif" width="320px" height="180px" /></td><td align="center"><img src="./images/1.gif" width="320px" height="180px" /></td>
+  <td align="center" valign="center"><img src="./images/1.gif" width="320px" height="180px" /></td><td align="center"><img src="./images/2.gif" width="320px" height="180px" /></td>
  </tr>
  <tr>
   <td align="center">The talented pianist, 1900, mesmerized the audience with his virtuosic performance of "Christmas Eve" while wearing a pristine white tuxedo and bow tie.</td><td align="center">Chris Gardner, a man with a box in his hand, runs frantically through the city, dodging people and cars while being chased by a taxi driver who is honking.</td>
  </tr>
  <tr>
-  <td align="center"><img src="./images/1.gif" width="320px" height="180px" /></td><td align="center"><img src="./images/1.gif" width="320px" height="180px" /></td>
+  <td align="center"><img src="./images/3.gif" width="320px" height="180px" /></td><td align="center"><img src="./images/4.gif" width="320px" height="180px" /></td>
  </tr>
  <tr>
   <td align="center">Dancing in the rain, Don Lockwood twirls with joy, umbrella in hand, amidst city streets.</td><td align="center">Alice fled through the mushroom forest, her heart racing as the Bandersnatch's ominous hisses and growls echoed behind her.</td>
