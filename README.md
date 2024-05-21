@@ -3,6 +3,9 @@
   If you like our project, please give us a star ⭐ on GitHub for latest update.
 </div>
 
+[\[📜Paper\]](https://aclanthology.org/2024.lrec-main.998/)
+[\[🗂️Project Page\]](https://daria8976.github.io/mmad-page/)
+
 ## 📰 News
 
 [2024.2.20] Our MMAD has been accepted at COLING 2024! Welcome to watch 👀 this repository for the latest updates.
