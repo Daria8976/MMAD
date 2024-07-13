@@ -77,3 +77,8 @@ Finally, we organized 10 vision health volunteers, 10 BVI people (including 3 to
 ## Acknowledgements
 Here are some great resources we benefit or utilize from:
 * [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) and [Pengi](https://github.com/microsoft/Pengi) for Our code base.
+
+
+## ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Daria8976/MMAD&type=Date)](https://star-history.com/#Daria8976/MMAD&Date)
